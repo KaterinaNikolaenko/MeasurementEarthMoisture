@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "BlueCapViewController.viewDidLoad():BlueCapViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in BlueCapViewController.viewDidLoad():BlueCapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.peripheral">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #4 in BlueCapViewController.viewDidLoad():BlueCapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "service.discoverAllCharacteristics()">
+            </PersistentString>
+            <PersistentString
+               value = "service!.discoverCharacteristics([self.newCharacteristicCBUUID])">
+            </PersistentString>
+            <PersistentString
+               value = "service?.discoverAllCharacteristics()">
+            </PersistentString>
+            <PersistentString
+               value = "service">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in BlueCapViewController.viewDidLoad():BlueCapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.peripheral?.discoverAllServices()">
+            </PersistentString>
+            <PersistentString
+               value = "peripheral.discoverServices([self.arduinoServiceCBUUID])">
+            </PersistentString>
+            <PersistentString
+               value = "self.peripheral.discoverServices([self.arduinoServiceCBUUID])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.peripheral(_:didUpdateValueFor:error:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "index1">
+            </PersistentString>
+            <PersistentString
+               value = "humidityArray[10]">
+            </PersistentString>
+            <PersistentString
+               value = "humidityArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

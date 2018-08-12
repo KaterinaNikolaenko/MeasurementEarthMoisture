@@ -1,0 +1,6 @@
+framework module Pods_MeasuringTheMoisture {
+  umbrella header "Pods-MeasuringTheMoisture-umbrella.h"
+
+  export *
+  module * { export * }
+}

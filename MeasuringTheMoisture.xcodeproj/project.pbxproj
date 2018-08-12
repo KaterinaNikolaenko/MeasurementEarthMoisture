@@ -14,6 +14,10 @@
 		068A87522097397C007174D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 068A87502097397C007174D0 /* LaunchScreen.storyboard */; };
 		068A875D2097397C007174D0 /* MeasuringTheMoistureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068A875C2097397C007174D0 /* MeasuringTheMoistureTests.swift */; };
 		068A87682097397C007174D0 /* MeasuringTheMoistureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 068A87672097397C007174D0 /* MeasuringTheMoistureUITests.swift */; };
+		06FD689620A32F7F00B64F59 /* BlueCapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FD689520A32F7F00B64F59 /* BlueCapViewController.swift */; };
+		3D9CAEA5698A54B86DD0C2B8 /* Pods_MeasuringTheMoistureTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 627A35459178270001E48B75 /* Pods_MeasuringTheMoistureTests.framework */; };
+		7E4E447BDFCD82A5DB956CA7 /* Pods_MeasuringTheMoisture.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9337893083A125FEF772043B /* Pods_MeasuringTheMoisture.framework */; };
+		C0E920287C9A0CE69B776CA4 /* Pods_MeasuringTheMoistureUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 385C64A27D493E657AEB9F70 /* Pods_MeasuringTheMoistureUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +51,16 @@
 		068A87632097397C007174D0 /* MeasuringTheMoistureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MeasuringTheMoistureUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		068A87672097397C007174D0 /* MeasuringTheMoistureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeasuringTheMoistureUITests.swift; sourceTree = "<group>"; };
 		068A87692097397C007174D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		06FD689520A32F7F00B64F59 /* BlueCapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlueCapViewController.swift; sourceTree = "<group>"; };
+		0FF38DEDD7B42EFE743BD99D /* Pods-MeasuringTheMoistureTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeasuringTheMoistureTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MeasuringTheMoistureTests/Pods-MeasuringTheMoistureTests.release.xcconfig"; sourceTree = "<group>"; };
+		217FD01D2646466995328E5B /* Pods-MeasuringTheMoisture.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeasuringTheMoisture.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MeasuringTheMoisture/Pods-MeasuringTheMoisture.debug.xcconfig"; sourceTree = "<group>"; };
+		385C64A27D493E657AEB9F70 /* Pods_MeasuringTheMoistureUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MeasuringTheMoistureUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5BCFA3F98B982CD7AC1425CE /* Pods-MeasuringTheMoisture.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeasuringTheMoisture.release.xcconfig"; path = "Pods/Target Support Files/Pods-MeasuringTheMoisture/Pods-MeasuringTheMoisture.release.xcconfig"; sourceTree = "<group>"; };
+		627A35459178270001E48B75 /* Pods_MeasuringTheMoistureTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MeasuringTheMoistureTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9337893083A125FEF772043B /* Pods_MeasuringTheMoisture.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MeasuringTheMoisture.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D1C377DBD208A8B44663A82 /* Pods-MeasuringTheMoistureTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeasuringTheMoistureTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MeasuringTheMoistureTests/Pods-MeasuringTheMoistureTests.debug.xcconfig"; sourceTree = "<group>"; };
+		C2ECE704C0947F2326243A0C /* Pods-MeasuringTheMoistureUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeasuringTheMoistureUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MeasuringTheMoistureUITests/Pods-MeasuringTheMoistureUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		FF64F12F49E20D61264284C0 /* Pods-MeasuringTheMoistureUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MeasuringTheMoistureUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-MeasuringTheMoistureUITests/Pods-MeasuringTheMoistureUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +68,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7E4E447BDFCD82A5DB956CA7 /* Pods_MeasuringTheMoisture.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D9CAEA5698A54B86DD0C2B8 /* Pods_MeasuringTheMoistureTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,6 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C0E920287C9A0CE69B776CA4 /* Pods_MeasuringTheMoistureUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +98,8 @@
 				068A875B2097397C007174D0 /* MeasuringTheMoistureTests */,
 				068A87662097397C007174D0 /* MeasuringTheMoistureUITests */,
 				068A87452097397C007174D0 /* Products */,
+				BF7C5F3908A7055BCAAC0F41 /* Pods */,
+				7DE91E92F8B1D79355940354 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -99,6 +118,7 @@
 			children = (
 				068A87472097397C007174D0 /* AppDelegate.swift */,
 				068A87492097397C007174D0 /* ViewController.swift */,
+				06FD689520A32F7F00B64F59 /* BlueCapViewController.swift */,
 				068A874B2097397C007174D0 /* Main.storyboard */,
 				068A874E2097397C007174D0 /* Assets.xcassets */,
 				068A87502097397C007174D0 /* LaunchScreen.storyboard */,
@@ -125,6 +145,29 @@
 			path = MeasuringTheMoistureUITests;
 			sourceTree = "<group>";
 		};
+		7DE91E92F8B1D79355940354 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9337893083A125FEF772043B /* Pods_MeasuringTheMoisture.framework */,
+				627A35459178270001E48B75 /* Pods_MeasuringTheMoistureTests.framework */,
+				385C64A27D493E657AEB9F70 /* Pods_MeasuringTheMoistureUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BF7C5F3908A7055BCAAC0F41 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				217FD01D2646466995328E5B /* Pods-MeasuringTheMoisture.debug.xcconfig */,
+				5BCFA3F98B982CD7AC1425CE /* Pods-MeasuringTheMoisture.release.xcconfig */,
+				9D1C377DBD208A8B44663A82 /* Pods-MeasuringTheMoistureTests.debug.xcconfig */,
+				0FF38DEDD7B42EFE743BD99D /* Pods-MeasuringTheMoistureTests.release.xcconfig */,
+				C2ECE704C0947F2326243A0C /* Pods-MeasuringTheMoistureUITests.debug.xcconfig */,
+				FF64F12F49E20D61264284C0 /* Pods-MeasuringTheMoistureUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +175,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 068A876C2097397C007174D0 /* Build configuration list for PBXNativeTarget "MeasuringTheMoisture" */;
 			buildPhases = (
+				64E57CA037421D1C11EA17DB /* [CP] Check Pods Manifest.lock */,
 				068A87402097397C007174D0 /* Sources */,
 				068A87412097397C007174D0 /* Frameworks */,
 				068A87422097397C007174D0 /* Resources */,
+				2120C283CC7300DE0BBAC293 /* [CP] Embed Pods Frameworks */,
+				3AE9CA1121AB4FF6522CF933 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -149,9 +195,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 068A876F2097397C007174D0 /* Build configuration list for PBXNativeTarget "MeasuringTheMoistureTests" */;
 			buildPhases = (
+				877E1A6DDE23BFD27E6EC629 /* [CP] Check Pods Manifest.lock */,
 				068A87542097397C007174D0 /* Sources */,
 				068A87552097397C007174D0 /* Frameworks */,
 				068A87562097397C007174D0 /* Resources */,
+				61548768DFE7ECECE27AA56F /* [CP] Embed Pods Frameworks */,
+				D2D0C7E40C14CFB32F8B14F1 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -167,9 +216,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 068A87722097397C007174D0 /* Build configuration list for PBXNativeTarget "MeasuringTheMoistureUITests" */;
 			buildPhases = (
+				FA9FC74CD2719F4EEFF9CA10 /* [CP] Check Pods Manifest.lock */,
 				068A875F2097397C007174D0 /* Sources */,
 				068A87602097397C007174D0 /* Frameworks */,
 				068A87612097397C007174D0 /* Resources */,
+				7BDC020DBEB91FA0081BAA4B /* [CP] Embed Pods Frameworks */,
+				21780529BDD65DD82F0536C6 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -254,11 +306,162 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		2120C283CC7300DE0BBAC293 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-MeasuringTheMoisture/Pods-MeasuringTheMoisture-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/BlueCapKit/BlueCapKit.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/BlueCapKit.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MeasuringTheMoisture/Pods-MeasuringTheMoisture-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		21780529BDD65DD82F0536C6 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MeasuringTheMoistureUITests/Pods-MeasuringTheMoistureUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3AE9CA1121AB4FF6522CF933 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MeasuringTheMoisture/Pods-MeasuringTheMoisture-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		61548768DFE7ECECE27AA56F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MeasuringTheMoistureTests/Pods-MeasuringTheMoistureTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		64E57CA037421D1C11EA17DB /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MeasuringTheMoisture-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7BDC020DBEB91FA0081BAA4B /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MeasuringTheMoistureUITests/Pods-MeasuringTheMoistureUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		877E1A6DDE23BFD27E6EC629 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MeasuringTheMoistureTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D2D0C7E40C14CFB32F8B14F1 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MeasuringTheMoistureTests/Pods-MeasuringTheMoistureTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FA9FC74CD2719F4EEFF9CA10 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-MeasuringTheMoistureUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		068A87402097397C007174D0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				06FD689620A32F7F00B64F59 /* BlueCapViewController.swift in Sources */,
 				068A874A2097397C007174D0 /* ViewController.swift in Sources */,
 				068A87482097397C007174D0 /* AppDelegate.swift in Sources */,
 			);
@@ -424,11 +627,13 @@
 		};
 		068A876D2097397C007174D0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 217FD01D2646466995328E5B /* Pods-MeasuringTheMoisture.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9VD9T9R724;
 				INFOPLIST_FILE = MeasuringTheMoisture/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ua.katerinanikolaenko.MeasuringTheMoisture;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -439,11 +644,13 @@
 		};
 		068A876E2097397C007174D0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5BCFA3F98B982CD7AC1425CE /* Pods-MeasuringTheMoisture.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 9VD9T9R724;
 				INFOPLIST_FILE = MeasuringTheMoisture/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ua.katerinanikolaenko.MeasuringTheMoisture;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -454,6 +661,7 @@
 		};
 		068A87702097397C007174D0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9D1C377DBD208A8B44663A82 /* Pods-MeasuringTheMoistureTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -471,6 +679,7 @@
 		};
 		068A87712097397C007174D0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0FF38DEDD7B42EFE743BD99D /* Pods-MeasuringTheMoistureTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -488,6 +697,7 @@
 		};
 		068A87732097397C007174D0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C2ECE704C0947F2326243A0C /* Pods-MeasuringTheMoistureUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -504,6 +714,7 @@
 		};
 		068A87742097397C007174D0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FF64F12F49E20D61264284C0 /* Pods-MeasuringTheMoistureUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
